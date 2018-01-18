@@ -1,0 +1,317 @@
+{
+  "AZnymkpsCH0": {
+    "129": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "261": [
+      "brave", 
+      1, 
+      "POSITIVE", 
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN", 
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "390": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "135": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "393": [
+      "snoopy", 
+      1, 
+      "INTERESTED"
+    ], 
+    "10": [
+      "bright", 
+      1, 
+      "GOOD", 
+      "close", 
+      1, 
+      "LOVE"
+    ], 
+    "271": [
+      "useless", 
+      1, 
+      "HELPNESS"
+    ], 
+    "401": [
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "148": [
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "277": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "22": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "25": [
+      "brave", 
+      1, 
+      "POSITIVE"
+    ], 
+    "158": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "416": [
+      "great", 
+      3, 
+      "HAPPY"
+    ], 
+    "161": [
+      "loved", 
+      1, 
+      "LOVE"
+    ], 
+    "34": [
+      "close", 
+      1, 
+      "LOVE", 
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "291": [
+      "scared", 
+      1, 
+      "AFRAID"
+    ], 
+    "37": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "171": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "430": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "349": [
+      "frightened", 
+      1, 
+      "AFRAID"
+    ], 
+    "49": [
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "417": [
+      "inferior", 
+      1, 
+      "HELPNESS"
+    ], 
+    "184": [
+      "great", 
+      2, 
+      "HAPPY"
+    ], 
+    "185": [
+      "lonely", 
+      1, 
+      "SAD"
+    ], 
+    "444": [
+      "sure", 
+      2, 
+      "STRONG", 
+      "sympathy", 
+      1, 
+      "LOVE", 
+      "great", 
+      1, 
+      "HAPPY", 
+      "elated", 
+      1, 
+      "HAPPY"
+    ], 
+    "319": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "320": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "194": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "71": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "72": [
+      "alone", 
+      1, 
+      "HELPNESS"
+    ], 
+    "457": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "74": [
+      "easy", 
+      1, 
+      "OPEN"
+    ], 
+    "418": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "336": [
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "210": [
+      "sure", 
+      1, 
+      "STRONG", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "340": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "441": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "472": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "345": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "219": [
+      "aggressive", 
+      1, 
+      "ANGRY"
+    ], 
+    "221": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "199": [
+      "aching", 
+      1, 
+      "HURT", 
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "263": [
+      "close", 
+      1, 
+      "LOVE"
+    ], 
+    "464": [
+      "reliable", 
+      1, 
+      "OPEN"
+    ], 
+    "226": [
+      "scared", 
+      1, 
+      "AFRAID", 
+      "bold", 
+      1, 
+      "POSITIVE"
+    ], 
+    "483": [
+      "close", 
+      1, 
+      "LOVE"
+    ], 
+    "358": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "237": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "366": [
+      "interested", 
+      1, 
+      "OPEN", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "113": [
+      "brave", 
+      1, 
+      "POSITIVE", 
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "253": [
+      "alone", 
+      2, 
+      "HELPNESS"
+    ], 
+    "405": [
+      "terrible", 
+      1, 
+      "DEPRESSED"
+    ]
+  }
+}

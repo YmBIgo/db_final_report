@@ -1,0 +1,807 @@
+{
+  "xUNmzLKvdm4": {
+    "1": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "2": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "5": [
+      "lost", 
+      1, 
+      "CONFUSED", 
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "8": [
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "9": [
+      "alone", 
+      1, 
+      "HELPNESS"
+    ], 
+    "25": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "27": [
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "30": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "33": [
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "35": [
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD", 
+      "loving", 
+      1, 
+      "LOVE"
+    ], 
+    "36": [
+      "aching", 
+      1, 
+      "HURT"
+    ], 
+    "43": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "45": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "51": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "52": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "easy", 
+      1, 
+      "OPEN", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "57": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN", 
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "58": [
+      "reliable", 
+      1, 
+      "OPEN"
+    ], 
+    "75": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "81": [
+      "free", 
+      2, 
+      "ALIVE", 
+      "free", 
+      2, 
+      "STRONG", 
+      "free", 
+      2, 
+      "OPEN"
+    ], 
+    "82": [
+      "touched", 
+      1, 
+      "LOVE"
+    ], 
+    "86": [
+      "skeptical", 
+      1, 
+      "CONFUSED", 
+      "sure", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD", 
+      "close", 
+      1, 
+      "LOVE", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "88": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "90": [
+      "alone", 
+      1, 
+      "HELPNESS", 
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "95": [
+      "confident", 
+      1, 
+      "POSITIVE", 
+      "confident", 
+      1, 
+      "OPEN"
+    ], 
+    "96": [
+      "cold", 
+      1, 
+      "INDIFFERENT"
+    ], 
+    "99": [
+      "sure", 
+      2, 
+      "STRONG"
+    ], 
+    "101": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "107": [
+      "easy", 
+      1, 
+      "OPEN", 
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "108": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "111": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "112": [
+      "pathetic", 
+      1, 
+      "HELPNESS", 
+      "disgusting", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "114": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "118": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "125": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "127": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "reliable", 
+      1, 
+      "OPEN", 
+      "easy", 
+      1, 
+      "OPEN", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "131": [
+      "thankful", 
+      1, 
+      "HAPPY"
+    ], 
+    "134": [
+      "free", 
+      2, 
+      "ALIVE", 
+      "free", 
+      2, 
+      "STRONG", 
+      "free", 
+      2, 
+      "OPEN"
+    ], 
+    "145": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "147": [
+      "fearful", 
+      2, 
+      "AFRAID"
+    ], 
+    "153": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "shy", 
+      2, 
+      "CONFUSED"
+    ], 
+    "159": [
+      "cross", 
+      1, 
+      "ANGRY", 
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "171": [
+      "lucky", 
+      1, 
+      "HAPPY"
+    ], 
+    "176": [
+      "anxious", 
+      1, 
+      "AFRAID", 
+      "alone", 
+      1, 
+      "HELPNESS", 
+      "useless", 
+      1, 
+      "HELPNESS", 
+      "anxious", 
+      1, 
+      "POSITIVE"
+    ], 
+    "179": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "180": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "easy", 
+      2, 
+      "OPEN", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "182": [
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "186": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "187": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "188": [
+      "easy", 
+      1, 
+      "OPEN"
+    ], 
+    "190": [
+      "intrigued", 
+      1, 
+      "INTERESTED"
+    ], 
+    "192": [
+      "ashamed", 
+      1, 
+      "DEPRESSED", 
+      "sore", 
+      1, 
+      "ANGRY"
+    ], 
+    "195": [
+      "elated", 
+      1, 
+      "HAPPY"
+    ], 
+    "198": [
+      "important", 
+      1, 
+      "HAPPY"
+    ], 
+    "200": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "207": [
+      "crushed", 
+      2, 
+      "HURT"
+    ], 
+    "208": [
+      "bad", 
+      2, 
+      "DEPRESSED", 
+      "certain", 
+      2, 
+      "STRONG", 
+      "certain", 
+      2, 
+      "GOOD"
+    ], 
+    "210": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "213": [
+      "disappointed", 
+      1, 
+      "DEPRESSED", 
+      "sore", 
+      1, 
+      "ANGRY", 
+      "content", 
+      2, 
+      "GOOD", 
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "220": [
+      "aching", 
+      1, 
+      "HURT"
+    ], 
+    "224": [
+      "close", 
+      1, 
+      "LOVE"
+    ], 
+    "226": [
+      "sore", 
+      1, 
+      "ANGRY"
+    ], 
+    "230": [
+      "bad", 
+      2, 
+      "DEPRESSED"
+    ], 
+    "233": [
+      "bad", 
+      2, 
+      "DEPRESSED"
+    ], 
+    "234": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "240": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "243": [
+      "free", 
+      2, 
+      "ALIVE", 
+      "free", 
+      2, 
+      "STRONG", 
+      "free", 
+      2, 
+      "OPEN"
+    ], 
+    "251": [
+      "pathetic", 
+      1, 
+      "HELPNESS"
+    ], 
+    "254": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "291": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "292": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "299": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "303": [
+      "useless", 
+      1, 
+      "HELPNESS"
+    ], 
+    "308": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "314": [
+      "alone", 
+      1, 
+      "HELPNESS", 
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "318": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "330": [
+      "loved", 
+      1, 
+      "LOVE", 
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "334": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "certain", 
+      1, 
+      "STRONG", 
+      "comfortable", 
+      1, 
+      "GOOD", 
+      "content", 
+      2, 
+      "GOOD", 
+      "certain", 
+      1, 
+      "GOOD"
+    ], 
+    "345": [
+      "great", 
+      2, 
+      "HAPPY", 
+      "elated", 
+      1, 
+      "HAPPY"
+    ], 
+    "346": [
+      "alone", 
+      1, 
+      "HELPNESS", 
+      "understanding", 
+      1, 
+      "OPEN"
+    ], 
+    "352": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "356": [
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD"
+    ], 
+    "362": [
+      "vulnerable", 
+      1, 
+      "HELPNESS", 
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "364": [
+      "reliable", 
+      1, 
+      "OPEN"
+    ], 
+    "370": [
+      "comfortable", 
+      1, 
+      "GOOD"
+    ], 
+    "372": [
+      "disappointed", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "378": [
+      "content", 
+      1, 
+      "GOOD", 
+      "passionate", 
+      1, 
+      "LOVE"
+    ], 
+    "386": [
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "398": [
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "399": [
+      "bright", 
+      1, 
+      "GOOD"
+    ], 
+    "400": [
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "402": [
+      "cross", 
+      1, 
+      "ANGRY", 
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "404": [
+      "bright", 
+      1, 
+      "GOOD"
+    ], 
+    "405": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "415": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "420": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "421": [
+      "elated", 
+      1, 
+      "HAPPY"
+    ], 
+    "427": [
+      "worried", 
+      1, 
+      "AFRAID"
+    ], 
+    "428": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "437": [
+      "understanding", 
+      1, 
+      "OPEN"
+    ], 
+    "439": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "444": [
+      "disappointed", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "447": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "450": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "454": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "456": [
+      "pessimistic", 
+      1, 
+      "CONFUSED", 
+      "pessimistic", 
+      1, 
+      "SAD", 
+      "great", 
+      1, 
+      "HAPPY", 
+      "important", 
+      1, 
+      "HAPPY"
+    ], 
+    "460": [
+      "calm", 
+      1, 
+      "GOOD"
+    ], 
+    "461": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "463": [
+      "optimistic", 
+      1, 
+      "POSITIVE", 
+      "optimistic", 
+      1, 
+      "ALIVE"
+    ], 
+    "469": [
+      "panic", 
+      2, 
+      "AFRAID"
+    ], 
+    "471": [
+      "lost", 
+      1, 
+      "CONFUSED"
+    ], 
+    "475": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "491": [
+      "sure", 
+      1, 
+      "STRONG"
+    ]
+  }
+}

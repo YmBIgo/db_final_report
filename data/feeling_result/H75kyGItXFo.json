@@ -1,0 +1,176 @@
+{
+  "H75kyGItXFo": {
+    "273": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "275": [
+      "clever", 
+      1, 
+      "GOOD"
+    ], 
+    "276": [
+      "surprised", 
+      1, 
+      "GOOD"
+    ], 
+    "283": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "157": [
+      "surprised", 
+      1, 
+      "GOOD"
+    ], 
+    "291": [
+      "disappointed", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "422": [
+      "lucky", 
+      1, 
+      "HAPPY"
+    ], 
+    "297": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "46": [
+      "cold", 
+      1, 
+      "INDIFFERENT"
+    ], 
+    "440": [
+      "sore", 
+      1, 
+      "ANGRY"
+    ], 
+    "316": [
+      "nervous", 
+      1, 
+      "AFRAID", 
+      "useless", 
+      2, 
+      "HELPNESS", 
+      "forced", 
+      1, 
+      "HELPNESS", 
+      "free", 
+      1, 
+      "ALIVE", 
+      "tortured", 
+      1, 
+      "HURT", 
+      "free", 
+      1, 
+      "STRONG", 
+      "sure", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "317": [
+      "guilty", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "318": [
+      "easy", 
+      1, 
+      "OPEN"
+    ], 
+    "320": [
+      "tortured", 
+      1, 
+      "HURT"
+    ], 
+    "322": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "323": [
+      "determined", 
+      1, 
+      "POSITIVE"
+    ], 
+    "453": [
+      "weary", 
+      1, 
+      "INDIFFERENT"
+    ], 
+    "201": [
+      "alone", 
+      1, 
+      "HELPNESS"
+    ], 
+    "331": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "209": [
+      "pathetic", 
+      1, 
+      "HELPNESS"
+    ], 
+    "468": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "87": [
+      "cross", 
+      1, 
+      "ANGRY"
+    ], 
+    "216": [
+      "scared", 
+      1, 
+      "AFRAID"
+    ], 
+    "221": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "225": [
+      "close", 
+      1, 
+      "LOVE"
+    ], 
+    "105": [
+      "wonderful", 
+      1, 
+      "ALIVE"
+    ], 
+    "115": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "374": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "361": [
+      "abominable", 
+      1, 
+      "DEPRESSED"
+    ]
+  }
+}

@@ -1,0 +1,525 @@
+{
+  "UzxYlbK2c7E": {
+    "1": [
+      "wonderful", 
+      1, 
+      "ALIVE", 
+      "great", 
+      1, 
+      "HAPPY", 
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "131": [
+      "worried", 
+      1, 
+      "AFRAID"
+    ], 
+    "260": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "278": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "close", 
+      1, 
+      "LOVE", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "134": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "sure", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "266": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "396": [
+      "unique", 
+      1, 
+      "STRONG"
+    ], 
+    "482": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "18": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "367": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "276": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "277": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "22": [
+      "glad", 
+      1, 
+      "HAPPY"
+    ], 
+    "348": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "461": [
+      "doubtful", 
+      1, 
+      "AFRAID", 
+      "doubtful", 
+      1, 
+      "CONFUSED"
+    ], 
+    "303": [
+      "important", 
+      1, 
+      "HAPPY"
+    ], 
+    "157": [
+      "reliable", 
+      1, 
+      "OPEN"
+    ], 
+    "30": [
+      "understanding", 
+      1, 
+      "OPEN"
+    ], 
+    "31": [
+      "lucky", 
+      1, 
+      "HAPPY"
+    ], 
+    "496": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "164": [
+      "interested", 
+      1, 
+      "OPEN"
+    ], 
+    "326": [
+      "loved", 
+      1, 
+      "LOVE"
+    ], 
+    "38": [
+      "sure", 
+      1, 
+      "STRONG", 
+      "neutral", 
+      1, 
+      "INDIFFERENT"
+    ], 
+    "41": [
+      "sunny", 
+      1, 
+      "HAPPY"
+    ], 
+    "274": [
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD"
+    ], 
+    "338": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "understanding", 
+      1, 
+      "OPEN"
+    ], 
+    "45": [
+      "loving", 
+      1, 
+      "LOVE"
+    ], 
+    "47": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "48": [
+      "hopeful", 
+      1, 
+      "POSITIVE", 
+      "understanding", 
+      2, 
+      "OPEN"
+    ], 
+    "49": [
+      "neutral", 
+      2, 
+      "INDIFFERENT"
+    ], 
+    "50": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "499": [
+      "hostile", 
+      1, 
+      "ANGRY"
+    ], 
+    "310": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "183": [
+      "uncertain", 
+      1, 
+      "CONFUSED", 
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD"
+    ], 
+    "313": [
+      "aching", 
+      1, 
+      "HURT", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "444": [
+      "aching", 
+      1, 
+      "HURT"
+    ], 
+    "317": [
+      "alone", 
+      1, 
+      "HELPNESS"
+    ], 
+    "394": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "224": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "459": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN"
+    ], 
+    "197": [
+      "disappointed", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "70": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "331": [
+      "content", 
+      1, 
+      "GOOD", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "332": [
+      "content", 
+      1, 
+      "GOOD", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "226": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "334": [
+      "content", 
+      1, 
+      "GOOD"
+    ], 
+    "335": [
+      "confident", 
+      1, 
+      "POSITIVE", 
+      "confident", 
+      1, 
+      "OPEN"
+    ], 
+    "336": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "dynamic", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN", 
+      "elated", 
+      1, 
+      "HAPPY"
+    ], 
+    "82": [
+      "dynamic", 
+      1, 
+      "STRONG"
+    ], 
+    "339": [
+      "understanding", 
+      3, 
+      "OPEN", 
+      "easy", 
+      1, 
+      "OPEN"
+    ], 
+    "215": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "216": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "kind", 
+      1, 
+      "OPEN", 
+      "thankful", 
+      2, 
+      "HAPPY"
+    ], 
+    "220": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "222": [
+      "bad", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "96": [
+      "loving", 
+      1, 
+      "LOVE"
+    ], 
+    "353": [
+      "free", 
+      1, 
+      "ALIVE", 
+      "free", 
+      1, 
+      "STRONG", 
+      "free", 
+      1, 
+      "OPEN", 
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "98": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "355": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "358": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "438": [
+      "disappointed", 
+      1, 
+      "DEPRESSED"
+    ], 
+    "105": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "500": [
+      "bad", 
+      1, 
+      "DEPRESSED", 
+      "certain", 
+      1, 
+      "STRONG", 
+      "certain", 
+      1, 
+      "GOOD"
+    ], 
+    "210": [
+      "aching", 
+      1, 
+      "HURT"
+    ], 
+    "110": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "111": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "489": [
+      "important", 
+      1, 
+      "HAPPY"
+    ], 
+    "466": [
+      "incapable", 
+      1, 
+      "HELPNESS"
+    ], 
+    "114": [
+      "easy", 
+      1, 
+      "OPEN"
+    ], 
+    "467": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "495": [
+      "loving", 
+      1, 
+      "LOVE"
+    ], 
+    "446": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "246": [
+      "kind", 
+      1, 
+      "OPEN"
+    ], 
+    "247": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "494": [
+      "great", 
+      1, 
+      "HAPPY"
+    ], 
+    "253": [
+      "sure", 
+      1, 
+      "STRONG"
+    ], 
+    "126": [
+      "cross", 
+      1, 
+      "ANGRY", 
+      "understanding", 
+      2, 
+      "OPEN", 
+      "great", 
+      2, 
+      "HAPPY"
+    ]
+  }
+}
